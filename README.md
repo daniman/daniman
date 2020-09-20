@@ -1,3 +1,3 @@
-I love bringing ideas to life with code. I'm not always feeling inspired, but when I am, I often have a hard time putting ideas down until I've completely seen them through.
+I love bringing ideas to life with code. I'm not always feeling inspired, but when I am, I have a hard time putting ideas down until I've seen them through. They will linger in my mind and consume my thoughts until I build them 💭 ✨
 
-For the last 4+ years, I've been working at @apollographql to help make GraphQL easier to use and more accessible to more people. My GitHub profile is a mix of frontend projects and GraphQL starters.
+My GitHub profile is a mixture of data vizualization projects and GraphQL starters that I've build during the course of my work at @apollographql. My favorite platform to build for is the web.
