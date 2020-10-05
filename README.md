@@ -1,3 +1,5 @@
-I love bringing ideas to life with code. I'm not always feeling inspired, but when I am, I have a hard time putting ideas down until I've seen them through –– they will consume my thoughts until I build them 💭 ✨
+I love bringing ideas to life with code. When I'm feeling inspired, I have a hard time putting ideas down until I've tried them out –– they consume my thoughts 💭 ✨
 
-My GitHub profile is a mixture of data vizualization projects and GraphQL projects that I've build during the course of my work at @apollographql. I built a [full clone](https://splendoor.netlify.app/) of the [Splendor Board Game](https://en.wikipedia.org/wiki/Splendor_(game)) with Apollo Server, Apollo Client, Typescript, and React that my friends like in particular. My favorite platform to build for is the web.
+My GitHub profile is a mixture of data vizualization projects and GraphQL projects that I've build during the course of my work at [@apollographql](https://github.com/apollographql). I'm particularly proud of the [clone](https://splendoor.netlify.app/) I built of the [Splendor Board Game](https://en.wikipedia.org/wiki/Splendor_(game)) with Apollo Server, Apollo Client, Typescript, and React.
+
+My favorite platform to build for is the web.
